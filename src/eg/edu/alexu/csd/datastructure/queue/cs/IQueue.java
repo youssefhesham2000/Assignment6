@@ -1,6 +1,7 @@
 package eg.edu.alexu.csd.datastructure.queue.cs;
-
+import eg.edu.alexu.csd.datastructure.linkedList.cs.Classes.*;
 public interface IQueue {
+	
 	/**
 	* Inserts an item at the queue front.
 	*/
