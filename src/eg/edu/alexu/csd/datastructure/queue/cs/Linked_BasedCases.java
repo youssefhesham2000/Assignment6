@@ -25,6 +25,4 @@ class Linked_BasedCases {
 		assertEquals(Q.dequeue(),10);
 		
 	}
-	
-
 }
